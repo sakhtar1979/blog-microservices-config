@@ -1,5 +1,5 @@
-#service:
-#  defaultMinMs: 15000
-#  defaultMaxMs: 15000
+service:
+  defaultMinMs: 15000
+  defaultMaxMs: 15000
 
 #logging.level.se.callista: DEBUG
