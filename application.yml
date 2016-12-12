@@ -8,7 +8,7 @@ service:
 logging:
   level:
     root: WARN
-    se.callista: INFO
+    com.hbo: INFO
 
     # FIXME: Get rid on NPE-exceptions in SC 1.1
     com.netflix.hystrix.contrib.javanica.command.GenericCommand: ERROR
